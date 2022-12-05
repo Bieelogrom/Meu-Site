@@ -40,7 +40,7 @@ height: 200px;
 #gif1{
     
    border-style: solid;
-   height: 350px;
+   max-height: 350px;
    position: absolute;
    left: 150px;
    bottom: 215px;
@@ -52,7 +52,7 @@ height: 200px;
    border-style: solid;
    height: 350px;
 
-   width: 340px;
+   max-width: 340px;
    position: relative;
    left: 860px;
    bottom: 452px;
