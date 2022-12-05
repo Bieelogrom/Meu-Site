@@ -1,0 +1,26 @@
+body {background-color: #FF680A;
+     
+
+}
+
+#fundo { text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+a { color: #134074;
+
+
+}
+
+.link{
+color: white;
+font-size: 25px;
+
+}
+
+.Títulos{
+color: lawngreen;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-decoration: underline;
+}

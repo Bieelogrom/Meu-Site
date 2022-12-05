@@ -1,0 +1,25 @@
+.btn{
+
+color: aliceblue;
+background-color: #4CAF50; ;
+border: #4CAF50;
+border-style: dotted;
+width: 100px;
+height: 50px;
+position: relative;
+left: 250px;
+}
+
+.link{
+color: black;
+font-family: Helvetica;
+font-weight: bold;
+position: relative;
+left: auto;
+
+}
+
+.lista{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
