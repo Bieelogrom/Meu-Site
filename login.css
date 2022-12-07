@@ -37,24 +37,9 @@ width: 200px;
 height: 200px;
 }
 
-#gif1{
-    
-   border-style: solid;
-   max-height: 350px;
-   position: absolute;
-   left: 150px;
-   bottom: 215px;
-}
 
 #img1{
-
-   margin: 50px auto;
-   border-style: solid;
-   height: 350px;
-
-   max-width: 340px;
-   position: relative;
-   left: 860px;
-   bottom: 452px;
-
+  display: block;
+  margin: auto;
+  margin-right: auto;
 }
